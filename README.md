@@ -6,7 +6,7 @@
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo>
+git clone <https://github.com/darkwing-09/Agentic_AI>
 cd research_paper_agent
 
 # Create virtual environment
