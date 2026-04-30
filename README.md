@@ -28,7 +28,6 @@ Edit `.env`:
 ```
 OPENAI_API_KEY=sk-...          # Required — https://platform.openai.com
 TAVILY_API_KEY=tvly-...        # Recommended — https://tavily.com
-GEMINI_API_KEY=AIzaSy...       # Required for diagrams — https://aistudio.google.com
 OUTPUT_DIR=./output
 MAX_JUDGE_ITERATIONS=5
 MAX_DIAGRAMS=7
