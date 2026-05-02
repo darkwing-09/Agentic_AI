@@ -66,3 +66,7 @@ python main.py --query "RAG for legal AI" --output ./my_papers
 
 **Customize the LaTeX template:**
 Edit `templates/latex_template.py` → modify `DEFAULT_LATEX`
+
+
+Future Scope 
+-> ADD MAIL , AND GET THE EMAIL DRAFTED ALONG WITH PAPER 
